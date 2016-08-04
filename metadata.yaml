@@ -1,0 +1,30 @@
+_repo: Peacock-Pie-a-Book-of-Rhymes_3753
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De la Mare, Walter
+    aliases:
+    - Ramal, Walter
+    - Mare, Walter de la
+    - De la Mare, Walter John
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '1108'
+    url: http://www.gutenberg.org/2009/agents/1108
+    wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Children''s poetry, English'
+- GITenberg
+title: Peacock Pie, a Book of Rhymes
+url: http://www.gutenberg.org/ebooks/3753
